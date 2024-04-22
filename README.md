@@ -21,7 +21,7 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 
 - 🔭 I’m currently working on 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 
 - 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: https://www.facebook.com/realniamul91 
+- 📫 How to reach me: https://www.facebook.com/realniamul71 
 - ⚡ Fun fact: Ethical Hacking 👨‍💻 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/NiamulJannat71"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&color=blueviolet&style=flat-square"></a>
