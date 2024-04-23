@@ -40,7 +40,7 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihan444)  
 
-![Profile views](https://gpvc.arturio.dev/Niamuljannat71)  
+![Profile Followers](https://gpvc.arturio.dev/Niamuljannat71)  
  
 <!DOCTYPE html>
 <html>
