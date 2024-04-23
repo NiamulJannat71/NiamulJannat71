@@ -2,7 +2,7 @@
 𝐇𝐢..👋 𝐈 𝐚𝐦 Niamul Jannat 🔰
 #### Ethical Hacker & Cyber Security Expert, GitHub Tool developer.
 ![Ethical Hacker & Cyber Security Expert, GitHub Tool developer.]
-<a href="https://github.com/NiamulJannat71"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/NiamulJannat71"><img height="45" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&color=blueviolet&style=flat-square"></a>
 <!DOCTYPE html>
 <html>
 </head>
